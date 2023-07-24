@@ -1,7 +1,7 @@
 
 set(PROJECT_TARGET_NAME ${PROJECT_NAME})
 
-message(STATUS "source file name = ${PROJECT_SOURCE_DIR}")
+message(STATUS "source file name = ${PROJECT_SOURCE_DIR}/src")
 message(STATUS "project target name = ${PROJECT_TARGET_NAME}")
 
 include_directories(
