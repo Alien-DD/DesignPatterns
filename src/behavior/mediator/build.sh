@@ -1,0 +1,1 @@
+g++ -o execute main.cpp dialog/*pp component/*pp -std=c++11

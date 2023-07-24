@@ -1,0 +1,1 @@
+g++ -o execute main.cpp collections/*pp iterators/*pp client/*pp -std=c++11
