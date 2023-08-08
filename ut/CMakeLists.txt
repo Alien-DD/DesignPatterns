@@ -1,5 +1,7 @@
 message(STATUS "UT Test Part = ${PROJECT_SOURCE_DIR}")
 
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/ut)
+
 # internal dirs
 include_directories(
     ${PROJECT_SOURCE_DIR}/src
